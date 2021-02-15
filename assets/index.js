@@ -18,6 +18,7 @@ export const Assets = {
     location_icon: require('./location.png'),
     arrow_down_icon: require('./arrow_down.png'),
     logo: require('./logo.png'),
+    logo2: require('./logo2.jpg'),
     poster: {
         poster_1: require('./poster/1.png'),
         poster_2: require('./poster/2.png'),
